@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9214308967193006452
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9214308967193006458}
+  - component: {fileID: 9214308967193006453}
+  - component: {fileID: 2032368698}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9214308967193006458
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967193006452}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.62666464, y: 5.913732, z: -0.029840231}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9214308967723171760}
+  - {fileID: 9214308968113803823}
+  - {fileID: 9214308967495563728}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9214308967193006453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967193006452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f24c1a533a4eb4ba59451e368f0695, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats:
+  - {fileID: 9214308967723171763}
+  - {fileID: 9214308968113803820}
+  - {fileID: 9214308967495563729}
+  gameMenuOpen: 0
+  dialogActive: 0
+  fadingBetweenAreas: 0
+  shopActive: 0
+  battleActive: 0
+  itemHeld:
+  - 
+  - 
+  - 
+  - 
+  - Axe01
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - HP Potion
+  - Sword
+  - 
+  - 
+  - Leather Blue
+  - 
+  - 
+  - 
+  - 
+  - 
+  numberOfItems: 000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003000000040000000000000000000000050000000000000000000000000000000000000000000000
+  referenceItems:
+  - {fileID: 4360626984181054734, guid: 5e0381c84cf50d3419252578541d5390, type: 3}
+  - {fileID: 2500080707620052887, guid: ca75945f0d3070b43a6c0625af9a97c9, type: 3}
+  - {fileID: 307964114537208822, guid: 479a8c4bc5e5ab045b160d9dcfd73fb9, type: 3}
+  - {fileID: 4700030620112860767, guid: 2760a6b188a9f254ca00e0dd0e807afa, type: 3}
+  currentGold: 1000
+--- !u!114 &2032368698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967193006452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2eee37a43898a42478ed70a03bfc5074, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - 
+  - Defeat dragon
+  - Save npc's friend
+  - back to the town
+  - go to the city
+  questMarkerComplete: 
+--- !u!1 &9214308967495563731
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9214308967495563728}
+  - component: {fileID: 9214308967495563729}
+  m_Layer: 0
+  m_Name: 'Player 3 Stats '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &9214308967495563728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967495563731}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.476997, y: -5.494013, z: -0.061714336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9214308967193006458}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9214308967495563729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967495563731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da22db2d8083f643b8eb9a04e8c7da4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Hoa
+  playerLevel: 3
+  currentEXP: 543
+  expToNextLevel: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 100
+  maxHP: 150
+  currentMP: 25
+  maxMP: 25
+  mpLvlBonus: 
+  strength: 0
+  defence: 0
+  wpnPwr: 0
+  armrPwr: 0
+  equippedWpn: 
+  equippedArmr: 
+  charImage: {fileID: 21300000, guid: faa6c8a1b07fcfb4aa77bf677ac5f064, type: 3}
+--- !u!1 &9214308967723171762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9214308967723171760}
+  - component: {fileID: 9214308967723171763}
+  m_Layer: 0
+  m_Name: Player 1 Stats
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9214308967723171760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967723171762}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.476997, y: -5.494013, z: -0.061714336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9214308967193006458}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9214308967723171763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308967723171762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da22db2d8083f643b8eb9a04e8c7da4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Hao
+  playerLevel: 1
+  currentEXP: 250
+  expToNextLevel: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 100
+  maxHP: 100
+  currentMP: 30
+  maxMP: 30
+  mpLvlBonus: 
+  strength: 0
+  defence: 0
+  wpnPwr: 0
+  armrPwr: 0
+  equippedWpn: 
+  equippedArmr: 
+  charImage: {fileID: -1039983629, guid: 2cf38d2062462d4488dc5b4b2782b2bd, type: 3}
+--- !u!1 &9214308968113803822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9214308968113803823}
+  - component: {fileID: 9214308968113803820}
+  m_Layer: 0
+  m_Name: 'Player 2 Stats '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9214308968113803823
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308968113803822}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.476997, y: -5.494013, z: -0.061714336}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 9214308967193006458}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9214308968113803820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9214308968113803822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da22db2d8083f643b8eb9a04e8c7da4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Amelia
+  playerLevel: 3
+  currentEXP: 543
+  expToNextLevel: 
+  maxLevel: 100
+  baseEXP: 1000
+  currentHP: 100
+  maxHP: 150
+  currentMP: 30
+  maxMP: 25
+  mpLvlBonus: 
+  strength: 0
+  defence: 0
+  wpnPwr: 0
+  armrPwr: 0
+  equippedWpn: 
+  equippedArmr: 
+  charImage: {fileID: -1635533985, guid: 91fa47d4fd7b8ab4096986d166fed417, type: 3}

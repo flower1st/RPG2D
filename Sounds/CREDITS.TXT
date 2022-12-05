@@ -1,0 +1,970 @@
+###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+Title:
+    Item Handling
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/item-handling
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Item Handling by Iwan &#039;qubodup&#039; Gabovitch http://opengameart.org/users/qubodup
+
+File(s):
+    * qubodupItemHandling.7z
+
+----------------------------------------
+
+Title:
+    UI Sound effects pack
+
+Author:
+    ViRiX
+
+URL:
+    https://opengameart.org/content/ui-sound-effects-pack
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Please place this in the credits of your project
+
+"Some of the sounds in this project were created by David McKee (ViRiX)
+soundcloud.com/virix"
+
+Thank you.
+
+File(s):
+    * UI pack 1.zip
+
+----------------------------------------
+
+Title:
+    Click
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/click
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * click.wav
+
+----------------------------------------
+
+Title:
+    UI-Accept or Forward
+
+Author:
+    ViRiX (David McKee)
+
+URL:
+    https://opengameart.org/content/ui-accept-or-forward
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Some of the sound effects in this project were created by David McKee (ViRiX) soundcloud.com/virix
+
+File(s):
+    * Accept.mp3
+
+----------------------------------------
+
+Title:
+    UI Decline or Back
+
+Author:
+    ViRiX
+
+URL:
+    https://opengameart.org/content/ui-decline-or-back
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Just put this in the credits
+
+"Some of the sounds in this project were created by David Mckee (ViRiX)
+soundcloud.com/virix"
+
+File(s):
+    * Decline.wav
+
+----------------------------------------
+
+Title:
+    Various sound effects from Rubik&#039;s Race.
+
+Author:
+    Nick Bowler
+
+URL:
+    https://opengameart.org/content/various-sound-effects-from-rubiks-race
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * rrsounds.tar.gz
+
+----------------------------------------
+
+Title:
+    Interface Sounds Starter Pack
+
+Author:
+    p0ss
+
+URL:
+    https://opengameart.org/content/interface-sounds-starter-pack
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * interface.zip
+
+----------------------------------------
+
+Title:
+    Button SFX Pack III - Assortment ot Hi - Tech
+
+Author:
+    Circlerun
+
+URL:
+    https://opengameart.org/content/button-sfx-pack-iii-assortment-ot-hi-tech
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Free to use  you don&#039;t have to credit me but it would be nice ^_^;
+
+File(s):
+    * Button SFX Pack III - Hi-Tech.zip
+
+----------------------------------------
+
+Title:
+    Button SFX Pack II - Granular Synthesis Styled
+
+Author:
+    Circlerun
+
+URL:
+    https://opengameart.org/content/button-sfx-pack-ii-granular-synthesis-styled
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Circlerun or Aaron Talbert 
+Either of these names suffice.
+
+File(s):
+    * Button SFX Pack II - Granular Synthesis Styled.zip
+
+----------------------------------------
+
+Title:
+    Sci-Fi Open/Close Interface SFX
+
+Author:
+    Triki Minut
+
+URL:
+    https://opengameart.org/content/sci-fi-openclose-interface-sfx
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    K.L.Jonasson, Winnipeg, Canada. 
+Triki Minut Interactive 
+www.trikiminut.com
+
+
+File(s):
+    * Open-Close-GUI-sfx_ogg.7z
+
+----------------------------------------
+
+Title:
+    Hi-Tech Button Sound Pack I (Non Themed)
+
+Author:
+    Circlerun
+
+URL:
+    https://opengameart.org/content/hi-tech-button-sound-pack-i-non-themed
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Just "SFX by Circlerun" will do just fine.
+
+File(s):
+    * SFX.zip
+
+----------------------------------------
+
+Title:
+    Picked Coin Echo 2
+
+Author:
+    NenadSimic
+
+URL:
+    https://opengameart.org/content/picked-coin-echo-2
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Picked Coin Echo 2.wav
+
+----------------------------------------
+
+Title:
+    Menu Selection Click
+
+Author:
+    NenadSimic
+
+URL:
+    https://opengameart.org/content/menu-selection-click
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Menu Selection Click.wav
+
+----------------------------------------
+
+Title:
+    Single Key Press Sounds
+
+Author:
+    eklee
+
+URL:
+    https://opengameart.org/content/single-key-press-sounds
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Copyright 2012 eklee http://freesound.org/people/eklee/ | 
+Copyright 2012 qubodup http://freesound.org/people/qubodup/ extraction of single sounds | 
+License: CC Attribution 3.0 http://creativecommons.org/licenses/by/3.0/
+
+File(s):
+    * eklee-KeyPresses-cc0-opengameart.zip
+
+----------------------------------------
+
+Title:
+    Card Game sounds
+
+Author:
+    HaelDB
+
+URL:
+    https://opengameart.org/content/card-game-sounds
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Cardsounds.zip
+
+----------------------------------------
+
+Title:
+    Zippo click sound
+
+Author:
+    dawith
+
+URL:
+    https://opengameart.org/content/zippo-click-sound
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * zipclick.flac
+
+----------------------------------------
+
+Title:
+    Beep Tone Sound SFX
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/beep-tone-sound-sfx
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * beep.wav
+
+----------------------------------------
+
+Title:
+    Random Low Quality SFX
+
+Author:
+    EMR
+
+URL:
+    https://opengameart.org/content/random-low-quality-sfx
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * randomsfx_0.zip
+
+----------------------------------------
+
+Title:
+    Inventory Sound Effects
+
+Author:
+    artisticdude
+
+URL:
+    https://opengameart.org/content/inventory-sound-effects
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * inventory_sound_effects.zip
+
+----------------------------------------
+
+Title:
+    Interface beeps
+
+Author:
+    bart
+
+URL:
+    https://opengameart.org/content/interface-beeps
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * beeps.zip
+
+----------------------------------------
+
+Title:
+    Sci-fi shwop 1
+
+Author:
+    Arthur
+
+URL:
+    https://opengameart.org/content/sci-fi-shwop-1
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * flopp med underleppa (flanger9).wav
+
+----------------------------------------
+
+Title:
+    GUI Sound Effects
+
+Author:
+    Lokif
+
+URL:
+    https://opengameart.org/content/gui-sound-effects
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * GUI_Sound_Effects_by_Lokif.7z
+
+----------------------------------------
+
+Title:
+    Inventory Bag
+
+Author:
+    spookymodem
+
+URL:
+    https://opengameart.org/content/inventory-bag
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Item Received.wav
+
+----------------------------------------
+
+Title:
+    Click UI Menu SFX (yes/no/select)
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/click-ui-menu-sfx-yesnoselect
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * click-ui.7z
+
+----------------------------------------
+
+Title:
+    16 button clicks
+
+Author:
+    Independent.nu
+
+URL:
+    https://opengameart.org/content/16-button-clicks
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * independent_nu_ljudbank-buttons_and_clicks.7z
+
+----------------------------------------
+
+Title:
+    Equipment Clicks II
+
+Author:
+    LFA
+
+URL:
+    https://opengameart.org/content/equipment-clicks-ii
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * equipmentclicks.wav
+
+----------------------------------------
+
+Title:
+    Metal Interactions
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/metal-interactions
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * metal_interactions.7z
+
+----------------------------------------
+
+Title:
+    Handling Guns
+
+Author:
+    Gary
+
+URL:
+    https://opengameart.org/content/handling-guns
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Guns by Gary <http://fossilrecords.net/> licensed under CC-BY-SA 3.0  <http://creativecommons.org/licenses/by-sa/3.0/> hosted by <http://opengameart.org/>
+
+File(s):
+    * Gary Guns.zip
+
+----------------------------------------
+
+Title:
+    Sprint Jump/Interaction sound (Yo Frankie!)
+
+Author:
+    Blender Foundation
+
+URL:
+    https://opengameart.org/content/sprint-jumpinteraction-sound-yo-frankie
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * sfx_interact.flac
+
+----------------------------------------
+
+Title:
+    Button Press
+
+Author:
+    Gobusto
+
+URL:
+    https://opengameart.org/content/button-press
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * press.wav
+
+----------------------------------------
+
+Title:
+    mouse click
+
+Author:
+    LFA
+
+URL:
+    https://opengameart.org/content/mouse-click
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * mouseclick.wav
+
+----------------------------------------
+
+Title:
+    Equipment Click
+
+Author:
+    LFA
+
+URL:
+    https://opengameart.org/content/equipment-click
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * equipmentclick.wav
+
+----------------------------------------
+
+Title:
+    6 user interface ding clicks
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/6-user-interface-ding-clicks
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * dingclicks.7z
+
+----------------------------------------
+
+Title:
+    4 sci-fi menu sounds
+
+Author:
+    Tim Mortimer
+
+URL:
+    https://opengameart.org/content/4-sci-fi-menu-sounds
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * flashpoint1.7z
+
+----------------------------------------
+
+Title:
+    Bub Block Sound Effects
+
+Author:
+    roppychop
+
+URL:
+    https://opengameart.org/content/bub-block-sound-effects
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    Credit to "Roppy Chop Studios" would be nice but isn&#039;t required.
+
+File(s):
+    * bubsfx.zip
+
+----------------------------------------
+
+Title:
+    Completion sound.
+
+Author:
+    Brandon Morris
+
+URL:
+    https://opengameart.org/content/completion-sound
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * completetask_0.mp3
+    * gmae.wav
+
+----------------------------------------
+
+Title:
+    on\off switch X3
+
+Author:
+    Vitor da Silva Gonçalves
+
+URL:
+    https://opengameart.org/content/onoff-switch-x3
+
+License(s):
+    * LGPL 2.1 ( http://www.gnu.org/licenses/lgpl-2.1.html )
+    * LGPL 3.0 ( http://www.gnu.org/licenses/lgpl-3.0.html )
+
+File(s):
+    * off switch.ogg
+
+----------------------------------------
+
+Title:
+    Point bell
+
+Author:
+    Brandon75689
+
+URL:
+    https://opengameart.org/content/point-bell
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * sd_0.wav
+
+----------------------------------------
+
+Title:
+    Rotating Bicycle Bell
+
+Author:
+    AntumDeluge
+
+URL:
+    https://opengameart.org/content/rotating-bicycle-bell
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * bicycle-1.wav
+
+----------------------------------------
+
+Title:
+    Level up, power up, Coin get (13 Sounds)
+
+Author:
+    wobbleboxx
+
+URL:
+    https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    This pack is released under the public domain CC0 license.
+If you want to give credit (not required): "wobbleboxx.com"
+
+File(s):
+    * SoundPack01.zip
+
+----------------------------------------
+
+Title:
+    50 RPG sound effects
+
+Author:
+    Kenney
+
+URL:
+    https://opengameart.org/content/50-rpg-sound-effects
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.
+
+File(s):
+    * RPGsounds_Kenney.zip
+
+----------------------------------------
+
+Title:
+    Picked Coin Echo
+
+Author:
+    NenadSimic
+
+URL:
+    https://opengameart.org/content/picked-coin-echo
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Picked Coin Echo.wav
+
+----------------------------------------
+
+Title:
+    Metal thing falling
+
+Author:
+    Secretlondon
+
+URL:
+    https://opengameart.org/content/metal-thing-falling
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * dropmetalthing.ogg
+
+----------------------------------------
+
+Title:
+    Up (3x)
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/up-3x
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * up.7z
+
+----------------------------------------
+
+Title:
+    Door Open, Door Close Set
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/door-open-door-close-set
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Feel free to link back and give credit to | Iwan &#039;qubodup&#039; Gabovitch <qubodup@gmail.com> <qubodup.net>
+
+File(s):
+    * qubodup-DoorSet.7z
+
+----------------------------------------
+
+Title:
+    Door open, door close
+
+Author:
+    Iwan Gabovitch
+
+URL:
+    https://opengameart.org/content/door-open-door-close
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * door.7z
+
+----------------------------------------
+
+Title:
+    Open Chest
+
+Author:
+    spookymodem
+
+URL:
+    https://opengameart.org/content/open-chest
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Chest Creak.wav
+
+----------------------------------------
+
+Title:
+    Key Jiggle
+
+Author:
+    spookymodem
+
+URL:
+    https://opengameart.org/content/key-jiggle
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Key Jiggle.wav
+
+----------------------------------------
+
+Title:
+    bubbles &#039;pop&#039;
+
+Author:
+    farfadet46
+
+URL:
+    https://opengameart.org/content/bubbles-pop
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    nothing to do, just use it :)
+
+File(s):
+    * pop.ogg
+
+----------------------------------------
+
+Title:
+    54 Casino sound effects (cards, dice, chips)
+
+Author:
+    Kenney
+
+URL:
+    https://opengameart.org/content/54-casino-sound-effects-cards-dice-chips
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Credit "Kenney.nl" or "www.kenney.nl", this is not mandatory.
+
+File(s):
+    * Casino sound package.zip
+
+----------------------------------------
+
+Title:
+    Spell Scroll
+
+Author:
+    spookymodem
+
+URL:
+    https://opengameart.org/content/spell-scroll
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Unrolling Parchment.wav
+
+----------------------------------------
+
+Title:
+    Random SFX
+
+Author:
+    Écrivain
+
+URL:
+    https://opengameart.org/content/random-sfx
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * SFX.zip
+
+----------------------------------------
+
+
