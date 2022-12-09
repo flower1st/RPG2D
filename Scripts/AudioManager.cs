@@ -26,7 +26,6 @@ public class AudioManager : MonoBehaviour
         {
             sfx[soundToPlay].Play();
         }
-        
     }
 
     public void PlayBGM(int musicToPlay)

@@ -74,7 +74,7 @@ public class CharStats : MonoBehaviour
         }
         if(playerLevel >= maxLevel)
         {
-            currentEXP = 0;  
+            currentEXP = 0;
         }
     }
 }
